@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+color ic_launcher_background
+color space
+drawable ic_launcher_foreground
+drawable logo_rocketorbit
+drawable planeta_jupiter
+drawable planeta_lua
+drawable planeta_marte
+drawable planeta_mercurio
+drawable planeta_netuno
+drawable planeta_plutao
+drawable planeta_saturno
+drawable planeta_urano
+drawable planeta_venus
+drawable rocket_small
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.RocketOrbit

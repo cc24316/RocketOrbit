@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.rocketorbit.app-debug-37:/drawable-nodpi_planeta_mercurio.webp.flat",
+        "source": "com.rocketorbit.app-main-39:/drawable-nodpi/planeta_mercurio.webp"
+    },
+    {
+        "merged": "com.rocketorbit.app-debug-37:/drawable-nodpi_logo_rocketorbit.png.flat",
+        "source": "com.rocketorbit.app-main-39:/drawable-nodpi/logo_rocketorbit.png"
+    },
+    {
+        "merged": "com.rocketorbit.app-debug-37:/drawable-nodpi_planeta_plutao.webp.flat",
+        "source": "com.rocketorbit.app-main-39:/drawable-nodpi/planeta_plutao.webp"
+    },
+    {
+        "merged": "com.rocketorbit.app-debug-37:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.rocketorbit.app-main-39:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.rocketorbit.app-debug-37:/drawable-nodpi_planeta_saturno.webp.flat",
+        "source": "com.rocketorbit.app-main-39:/drawable-nodpi/planeta_saturno.webp"
+    },
+    {
+        "merged": "com.rocketorbit.app-debug-37:/drawable-nodpi_rocket_small.png.flat",
+        "source": "com.rocketorbit.app-main-39:/drawable-nodpi/rocket_small.png"
+    },
+    {
+        "merged": "com.rocketorbit.app-debug-37:/drawable-nodpi_planeta_urano.webp.flat",
+        "source": "com.rocketorbit.app-main-39:/drawable-nodpi/planeta_urano.webp"
+    },
+    {
+        "merged": "com.rocketorbit.app-debug-37:/drawable-nodpi_planeta_netuno.webp.flat",
+        "source": "com.rocketorbit.app-main-39:/drawable-nodpi/planeta_netuno.webp"
+    },
+    {
+        "merged": "com.rocketorbit.app-debug-37:/drawable-nodpi_planeta_lua.webp.flat",
+        "source": "com.rocketorbit.app-main-39:/drawable-nodpi/planeta_lua.webp"
+    },
+    {
+        "merged": "com.rocketorbit.app-debug-37:/drawable-nodpi_ic_launcher_foreground.png.flat",
+        "source": "com.rocketorbit.app-main-39:/drawable-nodpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.rocketorbit.app-debug-37:/drawable-nodpi_planeta_jupiter.webp.flat",
+        "source": "com.rocketorbit.app-main-39:/drawable-nodpi/planeta_jupiter.webp"
+    },
+    {
+        "merged": "com.rocketorbit.app-debug-37:/drawable-nodpi_planeta_marte.webp.flat",
+        "source": "com.rocketorbit.app-main-39:/drawable-nodpi/planeta_marte.webp"
+    },
+    {
+        "merged": "com.rocketorbit.app-debug-37:/drawable-nodpi_planeta_venus.webp.flat",
+        "source": "com.rocketorbit.app-main-39:/drawable-nodpi/planeta_venus.webp"
+    },
+    {
+        "merged": "com.rocketorbit.app-debug-37:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.rocketorbit.app-main-39:/mipmap-anydpi/ic_launcher.xml"
+    }
+]
